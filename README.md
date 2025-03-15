@@ -5,6 +5,7 @@
 **Any-Resolution AI-Generated Image Detection by Spectral Learning**
 
 - Paper : [https://arxiv.org/abs/2411.19417](https://arxiv.org/abs/2411.19417)
+- Code : 
 
 **FIRE : Robust Detection of Diffusion-Generated Images via Frequency-Guided Reconstruction Error**
 
@@ -16,7 +17,7 @@
 - Paper :
 - Code :
 
-**A Bias-Free Training Paradigm for More General AI-generated Image Detection**
+**A Bias-Free Training Paradigm for More General AI-generated Image Detection [paper] [code]**
 
 - Paper : [https://arxiv.org/abs/2412.17671](https://arxiv.org/abs/2412.17671)
 - Code :
@@ -43,10 +44,27 @@
 - Paper : [https://arxiv.org/pdf/2411.16318](https://arxiv.org/pdf/2411.16318)
 - Code :
 
-**AI-Face: A Million-Scale Demographically Annotated AI-Generated Face Dataset and Fairness Benchmark**
 
-- Paper :
-- Code :
 
-### ICLR 2025 Papers
+### ICLR 2025
+
+**Aligned Datasets Improve Detection of Latent Diffusion-Generated Images**
+
+- Paper : [https://arxiv.org/abs/2410.11835v3](https://arxiv.org/abs/2410.11835v3)
+- Code :  [https://github.com/AniSundar18/AlignedForensics](https://github.com/AniSundar18/AlignedForensics)
+
+**A Sanity Check for AI-generated Image Detection**
+
+- Paper : [https://arxiv.org/abs/2410.11835v3](https://arxiv.org/abs/2410.11835v3)
+- Code :  [https://github.com/shilinyan99/AIDE](https://github.com/shilinyan99/AIDE)
+
+**Leveraging Natural Frequency Deviation for Diffusion-Generated Image Detection**
+
+- Paper : [https://arxiv.org/abs/2410.11835v3](https://arxiv.org/abs/2410.11835v3)
+- Code : 
+
+**Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images**
+
+- Paper : [https://openreview.net/pdf?id=7gGl6HB5Zd](https://openreview.net/pdf?id=7gGl6HB5Zd)
+- Code :  
 

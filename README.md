@@ -17,7 +17,7 @@
 - Paper :
 - Code :
 
-**A Bias-Free Training Paradigm for More General AI-generated Image Detection [paper] [code]**
+**A Bias-Free Training Paradigm for More General AI-generated Image Detection**
 
 - Paper : [https://arxiv.org/abs/2412.17671](https://arxiv.org/abs/2412.17671)
 - Code :

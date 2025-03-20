@@ -55,7 +55,7 @@
 
 **A Sanity Check for AI-generated Image Detection**
 
-- Paper : [https://arxiv.org/abs/2410.11835v3](https://arxiv.org/abs/2410.11835v3)
+- Paper : [https://arxiv.org/abs/2406.19435](https://arxiv.org/abs/2406.19435)
 - Code :  [https://github.com/shilinyan99/AIDE](https://github.com/shilinyan99/AIDE)
 
 **Leveraging Natural Frequency Deviation for Diffusion-Generated Image Detection**

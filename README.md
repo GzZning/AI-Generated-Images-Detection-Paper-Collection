@@ -5,7 +5,7 @@
 **Any-Resolution AI-Generated Image Detection by Spectral Learning**
 
 - Paper : [https://arxiv.org/abs/2411.19417](https://arxiv.org/abs/2411.19417)
-- Code : 
+- Code : [https://github.com/mever-team/spai](https://github.com/mever-team/spai)
 
 **FIRE : Robust Detection of Diffusion-Generated Images via Frequency-Guided Reconstruction Error**
 

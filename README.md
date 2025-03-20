@@ -60,7 +60,7 @@
 
 **Leveraging Natural Frequency Deviation for Diffusion-Generated Image Detection**
 
-- Paper : [https://arxiv.org/abs/2410.11835v3](https://arxiv.org/abs/2410.11835v3)
+- Paper : [https://openreview.net/pdf?id=fPBExgC1m9](https://openreview.net/pdf?id=fPBExgC1m9)
 - Code : 
 
 **Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images**

@@ -32,12 +32,12 @@
 - Paper :
 - Code :
 
-### **--分割线--**
-
 **OpenSDI: Spotting Diffusion-Generated Images in the Open World**
 
 - Paper :
 - Code : [https://github.com/iamwangyabin/OpenSDI?tab=readme-ov-file](https://github.com/iamwangyabin/OpenSDI?tab=readme-ov-file)
+
+### **--分割线--**
 
 **One Diffusion to Generate Them All**
 
@@ -66,5 +66,13 @@
 **Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images**
 
 - Paper : [https://openreview.net/pdf?id=7gGl6HB5Zd](https://openreview.net/pdf?id=7gGl6HB5Zd)
-- Code :  
+- Code :
+
+
+### 2023 Papers
+
+### **Diffusion Reconstruction Error**
+- Paper : 
+- Code : [https://github.com/ZhendongWang6/DIRE](https://github.com/ZhendongWang6/DIRE)
+
 

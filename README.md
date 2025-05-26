@@ -34,7 +34,7 @@
 
 **OpenSDI: Spotting Diffusion-Generated Images in the Open World**
 
-- Paper :
+- Paper :[https://arxiv.org/pdf/2503.19653](https://arxiv.org/pdf/2503.19653)
 - Code : [https://github.com/iamwangyabin/OpenSDI?tab=readme-ov-file](https://github.com/iamwangyabin/OpenSDI?tab=readme-ov-file)
 
 ### **--分割线--**

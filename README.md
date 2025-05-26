@@ -10,7 +10,7 @@
 **FIRE : Robust Detection of Diffusion-Generated Images via Frequency-Guided Reconstruction Error**
 
 - Paper : [https://arxiv.org/abs/2412.07140](https://arxiv.org/abs/2412.07140)
-- Code :
+- Code : [https://github.com/Chuchad/FIRE](https://github.com/Chuchad/FIRE)
 
 **Towards Universal AI-Generated Image Detection by Variational Information Bottleneck Network**
 
